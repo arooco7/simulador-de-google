@@ -7,7 +7,7 @@ const voiceSearchModalOpen = ()=>{
 	voiceSearch.style.animation = "aparecer 0.5s forwards";
 	voiceRecognition();
 }
-
+//probando los cambios - curso git desde cero. eres un grande, gracias!!
 
 const voiceSearchModalClose = () =>{
 	voiceSearch.style.animation = "desaparecer 0.25s forwards";
